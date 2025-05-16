@@ -1,0 +1,40 @@
+Node modules
+node_modules/
+
+Environment variables
+
+.env
+.env.*.local
+
+Logs
+
+logs/
+*.log
+npm-debug.log*
+
+OS-specific files
+
+.DS_Store
+Thumbs.db
+
+Build output
+
+dist/
+build/
+
+IDE/editor settings
+
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+Dependency directories
+
+.pnp/
+.pnp.js
+
+Misc
+
+*.local
+src/.env
